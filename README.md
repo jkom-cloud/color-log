@@ -5,7 +5,7 @@ log string with same color style for jkom
 ## Installation
 
 ```bash
-npm install https://github.com/jkom-cloud/color-log.git
+npm install https://github.com/jkom-cloud/color-log.git --save
 ```
 
 ## Usage
